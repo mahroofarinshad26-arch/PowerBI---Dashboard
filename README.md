@@ -1,6 +1,16 @@
 # PowerBI---Dashboard
 # Global Superstore Sales Dashboard
 
+ Video Explanation 
+ A video demostration explaining:
+ - Data Cleaning Steps
+ - Dashboard Visuals
+ - Insights and Analysis
+ - 
+   Watch video
+https://drive.google.com/file/d/1zyGZETkdk-CvJmEtwrv0F4GJ099YWGwM/view?usp=sharing
+
+
 ## Project Overview
 This project presents an interactive Sales Dashboard built using Microsoft Power BI.
 
@@ -72,6 +82,7 @@ Market
  Microsoft Power BI
  
  Dataset: Global Superstore Dataset
+
  
 ## Design Highlights
 
