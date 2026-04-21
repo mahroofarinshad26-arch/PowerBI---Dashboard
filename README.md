@@ -1,5 +1,5 @@
 # PowerBI---Dashboard
-Global Superstore Sales Dashboard
+# Global Superstore Sales Dashboard
 
 ## Project Overview
 This project presents an interactive Sales Dashboard built using Microsoft Power BI.
